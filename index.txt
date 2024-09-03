@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Su Pin-Chen Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Pin-Chen, Su
+Pin-Chen, Su
+Unity developer
 
 Show Contacts
 
 Email
-richard@example.com
+anniesuworkshop@gmail.com
 
 Phone
-+1 (213) 352-2795
++886 986419736
 
 Birthday
-June 23, 1982
+July 6, 1999
 
 Location
-Sacramento, California, USA
+Kaohsiung, Taiwan
 
 # navbar
 
